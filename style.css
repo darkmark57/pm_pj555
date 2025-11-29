@@ -1,0 +1,63 @@
+body {
+      font-family: 'Arial', sans-serif;
+      background-color: #e0f7fa; /* светлый голубой фон страницы */
+      margin: 0;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    .block {
+      padding: 20px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      line-height: 1.6;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    .block1 {
+      background-color: #fff3e0;
+      color: #2c3e50; /* темно-синий текст */
+    }
+
+    .block2 {
+      background-color: #f0f8ff;
+      color: #d35400; /* ярко-оранжевый текст */
+    }
+
+    .block3 {
+      background-color: #e8f5e9;
+      color: #1b5e20; /* темно-зелёный текст */
+    }
+
+    .block4 {
+      background-color: #fff0f5;
+      color: #8e44ad; /* фиолетовый текст */
+    }
+
+    h1 {
+      text-align: center;
+      color: #d35400;
+      margin-bottom: 30px;
+    }
+
+    h2 {
+      margin-top: 15px;
+      margin-bottom: 10px;
+    }
+
+    .fact {
+      background-color: #ffd54f;
+      color: #6a1b9a;
+      padding: 10px 15px;
+      border-radius: 8px;
+      font-style: italic;
+      margin-top: 10px;
+    }
+
+    .highlight {
+      font-weight: bold;
+    }
